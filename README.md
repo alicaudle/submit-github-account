@@ -12,7 +12,7 @@ submit: "https://algonquin.instructure.com/courses/846474/assignments/7453796"
 - Make your GitHub account (which should already be done).
 - Go to your GitHub profile URL, by clicking `Top right icon > Profile`
 - Copy the URL from your browser’s URL bar.
-- Go to the [**GitHub account Canvas assignment**](https://algonquin.instructure.com/courses/822869/assignments/7418666).
+- Go to the [**GitHub account Canvas assignment**](https://algonquin.instructure.com/courses/846474/assignments/7453796).
 - Submit your URL to the assignment.
 
 ---
